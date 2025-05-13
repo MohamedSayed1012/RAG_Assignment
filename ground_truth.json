@@ -1,0 +1,15 @@
+[
+  {
+    "question": "What is self-attention in transformers?",
+    "relevant_chunks": [
+      {"source": "transformers.pdf", "chunk_index": 3},
+      {"source": "nlp_basics.pdf", "chunk_index": 7}
+    ]
+  },
+  {
+    "question": "Explain the concept of overfitting in machine learning.",
+    "relevant_chunks": [
+      {"source": "ml_fundamentals.pdf", "chunk_index": 5}
+    ]
+  }
+]

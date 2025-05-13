@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is self-attention in transformers?",
+    "reference_answer": "Self-attention is a mechanism that allows models to weigh the importance of different words in a sequence when encoding a particular word."
+  },
+  {
+    "question": "Explain overfitting in machine learning.",
+    "reference_answer": "Overfitting occurs when a model learns the training data too well, capturing noise and outliers, leading to poor generalization to new data."
+  }
+]
